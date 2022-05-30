@@ -1,16 +1,28 @@
-### Hi there 👋
+Hi there 👋 Dinesh Sekar
 
-<!--
-**SekDinesh-pro/sekdinesh-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Software Engineer - Frontend at Evenion Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A little more about me... 🤷‍♂️
+
+const sekDinesh = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Jquery", "HTML5", "CSS3"],
+    askMeAbout: ["web dev", "tech", "app dev", "gaming"],
+    technologies: {
+        frontEnd: {
+            js: ["React"],
+            css: ["materialize", "SASS", "bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express"]
+        },
+        databases: ["MySql"],
+    },
+    architecture: [ "Progressive web applications", "Single page applications"],
+    funFact: "Ctrl + C and Ctrl + V have saved more lives than Batman and Robin."
+};
+
+🎈 I love connecting with different people so if you want to say Hi, I'll be happy to meet you! :)
+
+⭐️ From @SekDinesh-pro
