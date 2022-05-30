@@ -5,6 +5,7 @@ Software Engineer - Frontend at Evenion Technologies
 
 A little more about me... 🤷‍♂️
 
+<pre>
 const sekDinesh = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Jquery", "HTML5", "CSS3"],
@@ -22,6 +23,7 @@ const sekDinesh = {
     architecture: [ "Progressive web applications", "Single page applications"],
     funFact: "Ctrl + C and Ctrl + V have saved more lives than Batman and Robin."
 };
+</pre>
 
 🎈 I love connecting with different people so if you want to say Hi, I'll be happy to meet you! :)
 
